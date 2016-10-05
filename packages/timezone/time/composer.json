@@ -1,0 +1,12 @@
+{
+    "name": "ridwan/timezone",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ridwan Nugraha",
+            "email": "ridwan.211291@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
